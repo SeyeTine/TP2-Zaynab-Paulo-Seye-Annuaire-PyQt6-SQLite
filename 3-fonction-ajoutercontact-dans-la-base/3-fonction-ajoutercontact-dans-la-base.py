@@ -7,5 +7,6 @@ def AjouterContact(nom, prenom, telephone, email):
                    INSERT INTO Contacts (Nom, Prenom, Telephone, Email)
                    VALUES (?, ?, ?, ?)
                    """, (nom, prenom, telephone, email))
+
     conn.commit()
     conn.close()
