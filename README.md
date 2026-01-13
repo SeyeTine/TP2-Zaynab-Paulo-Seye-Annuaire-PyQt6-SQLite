@@ -89,3 +89,6 @@ Cette capture montre que notre base de données a été correctement créée et 
 
 <img width="986" height="288" alt="image" src="https://github.com/user-attachments/assets/30b863b8-dd18-491e-9a2e-22199d285481" />
 
+
+✅ Conclusion
+Ce projet nous a permis de mettre en pratique le développement d’une application graphique complète en PyQt6, connectée à une base de données SQLite, tout en appliquant les principes CRUD et une bonne organisation du code.
