@@ -19,7 +19,7 @@ Elle propose une interface graphique moderne, intuitive et conviviale permettant
 📊 Afficher tous les contacts dans un tableau interactif
 ✅ Validation automatique des emails
 
-# Technologies utilisées
+# Outils utilisées
 Python 
 PyQt6 - Framework d'interface graphique
 SQLite3 - Base de données légère intégrée
