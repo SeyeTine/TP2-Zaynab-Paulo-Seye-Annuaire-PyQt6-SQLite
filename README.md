@@ -45,35 +45,37 @@ Pull Request et merge vers la branche main
 └── README.md                   # Ce fichier
 
 # Des captures d’écran illustrant les fonctionnalités
+
 <img width="1226" height="835" alt="image" src="https://github.com/user-attachments/assets/56cfe223-afa5-48f2-9c65-3d69a0b9e92f" />
 
-Ajouter un contact
-
-<img width="800" height="545" alt="image" src="https://github.com/user-attachments/assets/f2e96484-6860-4db4-b80d-2dd7e8d11bf1" />
+➕ Ajouter un contact
 
 <img width="1228" height="820" alt="image" src="https://github.com/user-attachments/assets/6f63ae54-b20a-4ccd-b9ef-9a1b550fbf09" />
 
+<img width="1227" height="836" alt="image" src="https://github.com/user-attachments/assets/05e3ea82-6d18-41bf-9d24-daf1c6688cef" />
 
+<img width="1206" height="687" alt="image" src="https://github.com/user-attachments/assets/87531faa-73be-4663-8b45-ec8cbd7ffbd3" />
 
-Modifier un contact
+✏️ Modifier un contact
+
 <img width="1190" height="631" alt="image" src="https://github.com/user-attachments/assets/05041c75-b92f-4f19-bb05-27c6bf18cfc3" />
 
-Supprimer un contact
+<img width="1213" height="670" alt="image" src="https://github.com/user-attachments/assets/bf2a1580-09b6-490a-85b1-4a27d5951c76" />
+
+🗑️ Supprimer un contact
 
 <img width="1228" height="691" alt="image" src="https://github.com/user-attachments/assets/8955e32e-0e8e-49d7-a33d-1f41a6ef1bfb" />
 
 <img width="1223" height="712" alt="image" src="https://github.com/user-attachments/assets/1bbcec4c-9963-4cb6-b15a-9dcd19f950af" />
 
+🔍 Rechercher un contact
 
+<img width="1232" height="603" alt="image" src="https://github.com/user-attachments/assets/2e7451f1-c13b-416d-85dd-05d6cf893761" />
 
+🗄️ Vérifier le contenu de la base de données carnet_adresses.db
 
-Rechercher un contact
-
-Actualiser l'affichage
-
-Vérifier le contenu de la base de données carnet_adresses.db
 <img width="986" height="288" alt="image" src="https://github.com/user-attachments/assets/30b863b8-dd18-491e-9a2e-22199d285481" />
 
 
 # Ajout de styles CSS
-Afin d’améliorer l’apparence visuelle de l’application, des styles personnalisés (QSS) ont été ajoutés, conformément à ce qui a été vu en cours avec le professeur.
+Afin d’améliorer l’apparence visuelle de l’application, des styles personnalisés (QSS) ont été ajoutés.
