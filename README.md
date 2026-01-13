@@ -65,7 +65,7 @@ Cette capture d’écran démontre que l’ajout de trois contacts a été effec
 
 <img width="1190" height="631" alt="image" src="https://github.com/user-attachments/assets/05041c75-b92f-4f19-bb05-27c6bf18cfc3" />
 
-Cette action montre que la fonctionnalité de modification fonctionne correctement, puisque le contact numéro 1 a été mis à jour et que son prénom est passé de Seye à SeyeNabou.
+Cette action montre que la fonctionnalité de modification fonctionne correctement, puisque le contact numéro 1 a été mis à jour et que son nom est passé de Seye à SeyeNabou.
 
 <img width="1213" height="670" alt="image" src="https://github.com/user-attachments/assets/bf2a1580-09b6-490a-85b1-4a27d5951c76" />
 
@@ -89,6 +89,3 @@ Cette capture montre que notre base de données a été correctement créée et 
 
 <img width="986" height="288" alt="image" src="https://github.com/user-attachments/assets/30b863b8-dd18-491e-9a2e-22199d285481" />
 
-
-# Ajout de styles CSS
-Afin d’améliorer l’apparence visuelle de l’application, des styles personnalisés (QSS) ont été ajoutés.
